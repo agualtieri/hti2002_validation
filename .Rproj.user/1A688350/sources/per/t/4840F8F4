@@ -1,0 +1,28 @@
+{
+    "id": "4840F8F4",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1626183295756.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "id": "aaf70280ba684255974510ee38d53421",
+        "name": "SheetList",
+        "title": "SheetList",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1623056295,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1626183295756,
+    "read_only": false,
+    "read_only_alternatives": []
+}
